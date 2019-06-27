@@ -18,7 +18,7 @@ namespace CSharpPlayground
             //Override a method which was inherited
             italianChef.MakeSpecialtyDish();
             chef.MakeSpecialtyDish();
-        },
+        }
 
 
 
